@@ -1,0 +1,3 @@
+HI this a git repository
+we create one file 
+this is the third line
